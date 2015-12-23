@@ -1,0 +1,6 @@
+
+Npm的配置管理及设置代理
+http://www.cnblogs.com/huang0925/archive/2013/05/17/3083207.html
+
+> npm config get registry
+https://registry.npmjs.org/
