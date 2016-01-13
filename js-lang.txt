@@ -1,0 +1,2 @@
+语法和数据类型
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Grammar_and_types
