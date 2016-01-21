@@ -3,3 +3,12 @@ http://www.html-js.com/article/CSS-learning-CSS3-Transform
 http://www.zhangxinxu.com/wordpress/2012/09/css3-3d-transform-perspective-animate-transition/
 
 http://www.zhangxinxu.com/wordpress/2015/05/css3-transform-affect/
+
+CSS3 transform对普通元素的N多渲染影响
+http://www.zhangxinxu.com/wordpress/2015/05/css3-transform-affect/
+
+深入理解CSS中的层叠上下文和层叠顺序
+http://www.zhangxinxu.com/wordpress/2016/01/understand-css-stacking-context-order-z-index/
+
+CSS深入理解流体特性和BFC特性下多栏自适应布局
+http://www.zhangxinxu.com/wordpress/2015/02/css-deep-understand-flow-bfc-column-two-auto-layout/
